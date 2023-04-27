@@ -1,0 +1,2 @@
+Część pierwsza zadania.
+
